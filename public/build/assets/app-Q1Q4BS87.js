@@ -1,0 +1,1 @@
+import"./bootstrap-CtnzlWyv.js";document.querySelector(".chat-container");document.querySelector(".typing");document.querySelector("#input-message");let t=document.querySelector(".id_r").value,e=Echo.private("private.playground."+t);Echo.channel("public.sendMessage.1");e.subscribed(()=>{console.log(e)}).listen(".playground",c=>{});

@@ -1,0 +1,46 @@
+{
+  "_bootstrap-CtnzlWyv.js": {
+    "file": "assets/bootstrap-CtnzlWyv.js"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-Yte4lUTM.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/auth.css": {
+    "file": "assets/auth-DDqvuGhA.css",
+    "src": "resources/css/auth.css",
+    "isEntry": true
+  },
+  "resources/css/etc.css": {
+    "file": "assets/etc-WKXT-kay.css",
+    "src": "resources/css/etc.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Q1Q4BS87.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_bootstrap-CtnzlWyv.js"
+    ]
+  },
+  "resources/js/copied.js": {
+    "file": "assets/copied-DcnJQgGK.js",
+    "src": "resources/js/copied.js",
+    "isEntry": true
+  },
+  "resources/js/etc.js": {
+    "file": "assets/etc-DSZvjjjH.js",
+    "src": "resources/js/etc.js",
+    "isEntry": true
+  },
+  "resources/js/sendMessage.js": {
+    "file": "assets/sendMessage-DceapbTF.js",
+    "src": "resources/js/sendMessage.js",
+    "isEntry": true,
+    "imports": [
+      "_bootstrap-CtnzlWyv.js"
+    ]
+  }
+}
